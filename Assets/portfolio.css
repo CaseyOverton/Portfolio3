@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(29, 29, 29)
+}
+* {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: snow;
+}
+h1 {
+    text-align: center;
+}
+.col-centered {
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+  }

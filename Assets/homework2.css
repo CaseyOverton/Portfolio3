@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(29, 29, 29);
+}
+* {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: whitesmoke;
+}
+h1 {
+    text-align: center;
+}
+.col-centered {
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .jumbotron {
+    background-color: rgba(112, 128, 144, 0.288)
+  }
+  img {
+    float: left;
+  }
+  .mt-0 {
+    margin-top: 0 !important;
+  }
+  #img {
+     margin: auto;
+     padding: auto;
+  }
