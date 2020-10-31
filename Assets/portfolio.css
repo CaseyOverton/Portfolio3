@@ -109,3 +109,12 @@ p {
     padding: 3%;
     background-color: rgba(0, 0, 0, 0.767);
 }
+.card-header {
+  font-size: 35px;
+}
+.card-title {
+  font-size: 30px;
+}
+.card-text {
+  font-size: 25px;
+}
