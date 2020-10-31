@@ -12,8 +12,11 @@ body {
     font-weight: bolder;
     color: snow;
 }
-h1 {
+#header {
+  font-size: 75px;
     text-align: center;
+    font-weight: bolder;
+    background-color: rgba(0, 0, 0, 0.699)
 }
 .col-centered {
     float: none;
