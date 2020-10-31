@@ -12,6 +12,9 @@ body {
     font-weight: bolder;
     color: snow;
 }
+p {
+  font-size: 40%;
+}
 #header {
   font-size: 75px;
     text-align: center;
